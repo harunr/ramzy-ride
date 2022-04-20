@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.807 32.264">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #f14339;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #f14339;
+      }
+    </style>
+  </defs>
+  <g id="Group_6008" data-name="Group 6008" transform="translate(0.5 0.764)">
+    <path id="Path_7958" data-name="Path 7958" class="cls-1" d="M32.374,6.91V5.265A1.074,1.074,0,0,0,31.31,4.2H28.6" transform="translate(-0.906 -0.119)"/>
+    <path id="Path_7959" data-name="Path 7959" class="cls-1" d="M13,6.355,27.129,2l1.452,4.355" transform="translate(-0.403 -0.048)"/>
+    <line id="Line_1062" data-name="Line 1062" class="cls-1" y1="5.806" x2="17.516" transform="translate(5.048 0.5)"/>
+    <path id="Path_7960" data-name="Path 7960" class="cls-1" d="M35.339,15.145a.914.914,0,0,1,.968.968v5.806a.914.914,0,0,1-.968.968H27.6a.914.914,0,0,1-.968-.968V17.081a.914.914,0,0,1,.968-.968H33.4V10.306a.914.914,0,0,0-.968-.968H2.919A2.286,2.286,0,0,1,.5,6.919,2.286,2.286,0,0,1,2.919,4.5h7.742" transform="translate(0 -0.129)"/>
+    <circle id="Ellipse_40" data-name="Ellipse 40" class="cls-2" cx="0.968" cy="0.968" r="0.968" transform="translate(30.016 18.403)"/>
+    <path id="Path_7961" data-name="Path 7961" class="cls-1" d="M33.4,24.9v4.839a.914.914,0,0,1-.968.968H2.919A2.286,2.286,0,0,1,.5,28.29V7" transform="translate(0 -0.21)"/>
+  </g>
+</svg>
